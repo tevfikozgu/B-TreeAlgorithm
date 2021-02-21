@@ -11,7 +11,7 @@ For this operation, **insert.cpp** will be used. To execute this program, initia
 
 This program will expect you to enter some inputs. Sample input set is given below.
 
-| :boom: INPUT SET           |
+| :memo: INPUT SET           |
 |:---------------------------|
 | 21
 3
@@ -62,7 +62,7 @@ Delete operation was a little bit confusing. Initially you need to compile progr
 
 Like **insert.cpp** this program also expect to enter inputs. Sample input set is given below.
 
-| :boom: INPUT SET           |
+| :memo: INPUT SET           |
 |:---------------------------|
 | 21
 3
