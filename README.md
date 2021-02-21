@@ -27,3 +27,17 @@ z
 8 2 V
 62 9 Y
 9 5 Z |
+
+In this input set, 21 is the number of nodes in the tree. 3 is the degree of the B-Tree and finally z is the key that will be used for inserting an element as an key.
+
+When this input set is typed, tree will be printed in prefix order. Result is given below.
+
+| :danger: Output of the tree|
+|:---------------------------|
+|(748,54,C)(56,34,G)(68,0,P)(40 ,7,S)(8,2,V)
+(41,33,A)(-66,8,B)
+(99,978,D)(400,23,E)
+(98,66,J)(0,43,K)(71,6,M)(66,12,N)(45,1,O)
+(11,-34,Q)(67,-36,R)
+(123,-666,T)(85,3,U)
+(999,4,X)(62,9,Y)(9,5,Z)|
