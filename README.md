@@ -1,7 +1,9 @@
 # B-TreeAlgorithm
  B-Tree Algorithm is implemented for both insert and delete operations.
 
-| :boom: INPUT SET              |
+## Insert Operation
+
+| :boom: INPUT SET           |
 |:---------------------------|
 | 21
 3
@@ -32,7 +34,7 @@ In this input set, 21 is the number of nodes in the tree. 3 is the degree of the
 
 When this input set is typed, tree will be printed in prefix order. Result is given below.
 
-| :boom: Output of the tree|
+| :boom: Output of the tree  |
 |:---------------------------|
 |(748,54,C)(56,34,G)(68,0,P)(40 ,7,S)(8,2,V)
 (41,33,A)(-66,8,B)
@@ -41,3 +43,5 @@ When this input set is typed, tree will be printed in prefix order. Result is gi
 (11,-34,Q)(67,-36,R)
 (123,-666,T)(85,3,U)
 (999,4,X)(62,9,Y)(9,5,Z)|
+
+## Delete Operation
