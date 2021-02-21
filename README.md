@@ -32,7 +32,7 @@ In this input set, 21 is the number of nodes in the tree. 3 is the degree of the
 
 When this input set is typed, tree will be printed in prefix order. Result is given below.
 
-| :danger: Output of the tree|
+| :boom: Output of the tree|
 |:---------------------------|
 |(748,54,C)(56,34,G)(68,0,P)(40 ,7,S)(8,2,V)
 (41,33,A)(-66,8,B)
