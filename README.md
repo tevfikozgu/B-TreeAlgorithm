@@ -62,7 +62,6 @@ Delete operation was a little bit confusing. Initially you need to compile progr
 
 Like **insert.cpp** this program also expect to enter inputs. Sample input set is given below.
 
-<p align="center">
 
 | :memo: INPUT SET           |
 |:---------------------------|
@@ -91,8 +90,6 @@ z
 62 9 Y
 9 5 Z 
 G|
-
-</p>
 
 Only difference is the last item that was typed. In this set last item which is *G* is the key that will be deleted. Output of this set is given below.
 
