@@ -3,6 +3,14 @@
 
 ## Insert Operation
 
+For this operation, **insert.cpp** will be used. To execute this program, initially these steps must be done:
+
+* First download all files(except **delete.cpp**).
+* In the next step, compile main.cpp by g++ -Wall -Werror insert.cpp -o insert
+* Run file as ./insert
+
+This program will expect you to enter some inputs. Sample input set is given below.
+
 | :boom: INPUT SET           |
 |:---------------------------|
 | 21
